@@ -1,6 +1,4 @@
 # ---------------------------------------------------------------
-# Site Information Settings
-# ---------------------------------------------------------------
 
 # Put your favicon.ico into `hexo-site/source/` directory.
 favicon: /favicon.ico
@@ -49,7 +47,7 @@ menu:
   about: /about
   archives: /archives
   tags: /tags
-  #sitemap: /sitemap.xml
+  sitemap: /sitemap.xml
   #commonweal: /404.html
 
 
@@ -78,9 +76,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -281,7 +279,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night eighties
 
 
 # ---------------------------------------------------------------
@@ -318,7 +316,7 @@ disqus:
 #hypercomments_id:
 
 # Gentie productKey
-#gentie_productKey:
+gentie_productKey: 75d50d5ec7a94c399024cab3298b7772
 
 # changyan
 changyan:
